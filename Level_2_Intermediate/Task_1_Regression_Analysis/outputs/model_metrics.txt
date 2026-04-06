@@ -1,0 +1,8 @@
+Feature: RM
+Target: MEDV
+Training rows: 404
+Testing rows: 102
+Intercept: -33.1646
+Slope: 8.8715
+Mean Squared Error: 40.7512
+R-squared: 0.4927
