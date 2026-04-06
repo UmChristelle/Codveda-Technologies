@@ -1,0 +1,9 @@
+Symbol: AAPL
+Rows: 1007
+Start date: 2014-01-02
+End date: 2017-12-29
+Average close price: 116.840
+Minimum close price: 71.397
+Maximum close price: 176.420
+Average daily return (%): 0.086
+Daily return std (%): 1.431
