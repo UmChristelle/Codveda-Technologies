@@ -1,0 +1,5 @@
+International Plan Flag,Voice Mail Flag,customers,churned_customers,churn_rate,avg_total_charge
+International Plan,No Voice Mail,231,101,0.4372,60.82
+International Plan,Voice Mail,92,36,0.3913,61.46
+No International Plan,No Voice Mail,2180,302,0.1385,59.24
+No International Plan,Voice Mail,830,44,0.053,59.39

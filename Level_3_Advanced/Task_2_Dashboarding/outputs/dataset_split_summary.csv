@@ -1,0 +1,3 @@
+dataset,customers,churn_rate
+test,667,0.1424
+train,2666,0.1455

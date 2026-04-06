@@ -1,0 +1,11 @@
+Recommended Dashboard Pages
+1. Executive Overview
+2. Churn Drivers and Customer Segments
+3. Geographic Churn Analysis
+
+Recommended Slicers
+- State
+- International plan
+- Voice mail plan
+- Customer Service Calls Band
+- dataset (train/test)

@@ -1,0 +1,4 @@
+Customer Service Calls Band,customers,churned_customers,churn_rate
+0-1 Calls,1878,214,0.114
+2-3 Calls,1188,131,0.1103
+4+ Calls,267,138,0.5169
