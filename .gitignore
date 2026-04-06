@@ -1,0 +1,8 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+Task_1_Data_Cleaning/task1_executed.ipynb
+Task_1_Data_Cleaning/test_run.py
