@@ -1,0 +1,10 @@
+Best model: Logistic Regression
+Hyperparameters: {'learning_rate': 0.05, 'epochs': 1500, 'l2_penalty': 0.0}
+Accuracy: 0.8591
+Precision: 0.5111
+Recall: 0.2421
+F1-score: 0.3286
+TP: 23
+TN: 550
+FP: 22
+FN: 72

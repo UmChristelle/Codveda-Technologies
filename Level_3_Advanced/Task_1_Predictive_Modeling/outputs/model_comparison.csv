@@ -1,0 +1,4 @@
+model,selection_basis,hyperparameters,accuracy,precision,recall,f1_score,tp,tn,fp,fn
+Logistic Regression,best validation F1,"{'learning_rate': 0.05, 'epochs': 1500, 'l2_penalty': 0.0}",0.8591,0.5111,0.2421,0.3286,23,550,22,72
+Gaussian Naive Bayes,single fitted model,{},0.5907,0.1799,0.5263,0.2681,50,344,228,45
+KNN,best validation F1,{'k': 3},0.8441,0.3636,0.1263,0.1875,12,551,21,83
